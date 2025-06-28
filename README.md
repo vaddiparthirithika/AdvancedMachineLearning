@@ -104,8 +104,8 @@ The objective of this project is to develop a machine learning classification mo
 
 ## Files Included
 
-- `easy_visa.ipynb` – Notebook with full pipeline
-- `easy_visa.html` – Exported view-only version of the notebook
+- `Easy_Visa_ML.ipynb` – Notebook with full pipeline
+- `Easy_Visa_ML.html` – Exported view-only version of the notebook
 - `README.md` – Project documentation
 -  Input Dataset
 
